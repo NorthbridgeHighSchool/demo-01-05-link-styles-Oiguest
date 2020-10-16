@@ -1,0 +1,21 @@
+html {
+  background-color: rgb(255, 254, 202);
+  text-align:center;
+}
+img {
+  max-height: 300px;
+  border: 10px solid rgb(193, 220, 255);
+  padding: 5px;
+}
+h1 {
+  font-variant: small-caps
+} 
+h2 {
+  font-variant: small-caps
+} 
+nav {
+  font-variant: small-caps
+} 
+p {
+  font-variant: small-caps
+}
