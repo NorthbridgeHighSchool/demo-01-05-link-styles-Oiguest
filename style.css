@@ -19,3 +19,19 @@ nav {
 p {
   font-variant: small-caps
 }
+a:link {
+  color: rgb(111, 146, 169);
+}
+a:visited {
+  color: rgb(111, 146, 169);
+  font-weighted: bold;
+}
+a:hover {
+  color: rgb(255, 207, 135)
+}
+a.current {
+  color: rgba(0, 0, 0, 0.329)
+}
+a:active {
+  color: rgb(255, 208, 221)
+}
