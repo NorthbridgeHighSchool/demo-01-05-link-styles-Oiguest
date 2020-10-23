@@ -21,10 +21,13 @@ p {
 }
 a:link {
   color: rgb(111, 146, 169);
+  border: 5px ridge rgb(111, 146, 169);
+  padding: 10px
 }
 a:visited {
   color: rgb(111, 146, 169);
   font-weighted: bold;
+  border: 5px ridge rgb(111, 146, 169);
 }
 a:hover {
   color: rgb(255, 207, 135)
@@ -34,4 +37,7 @@ a.current {
 }
 a:active {
   color: rgb(255, 208, 221)
+}
+li {
+  margin-bottom: 25px
 }
